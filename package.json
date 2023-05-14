@@ -1,8 +1,9 @@
 {
-  "name": "macos-dark-mode-theme",
+  "name": "macos-dark-mode-theme-for-devs",
   "displayName": "MacOS Dark Mode Theme",
   "description": "Best theme for JavaScript Developers.",
   "version": "0.0.1",
+  "publisher": "mohit4bug",
   "engines": {
     "vscode": "^1.78.0"
   },
@@ -17,5 +18,8 @@
         "path": "./themes/Mohit Khatri-color-theme.json"
       }
     ]
+  },
+  "repository": {
+    "url": "https://github.com/mohit4bug/vs-code-theme.git"
   }
 }

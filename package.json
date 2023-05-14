@@ -1,0 +1,21 @@
+{
+  "name": "macos-dark-mode-theme",
+  "displayName": "MacOS Dark Mode Theme",
+  "description": "Best theme for JavaScript Developers.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.78.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Mohit Khatri",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Mohit Khatri-color-theme.json"
+      }
+    ]
+  }
+}

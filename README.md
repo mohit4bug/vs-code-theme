@@ -1,4 +1,3 @@
-# macos-dark-mode-theme
 # How to install ?
 * Go to vscode extensions.
 * Type "mohit4bug".
